@@ -155,3 +155,33 @@ nav a:hover {
 .gym {
     color: white;
 }
+.calculator {
+    color: blue;
+    font-size:5 px;
+    font-style:normal;
+    text-align:center;
+    padding : 10px;
+    margin-left: 40px;
+}
+.calculator-description {
+    margin-left: 20px;
+}
+.calculator-link {
+    margin-left: 20px;
+    text-decoration: none;
+    color: blue;
+    transition: color 0.3s ease;
+    margin-bottom: 20px;
+}
+.calculator-link:hover {
+    color: rgb(101, 214, 242);
+}
+.eq-link:hover {
+    color: rgb(101, 214, 242);
+}
+.investing-link:hover {
+    color: rgb(101, 214, 242);
+}
+.calculator{
+  margin-bottom: 20px;
+}

@@ -185,3 +185,14 @@ nav a:hover {
 .calculator{
   margin-bottom: 20px;
 }
+.electrician {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.name {
+    color: rgb(26, 48, 134);
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
